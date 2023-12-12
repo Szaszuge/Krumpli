@@ -1,12 +1,19 @@
 #cim{
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 #szoveg{
     text-align: justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 #alcim{
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 #kep{
     text-align: center;
+}
+
+body{
+    background-color: slategray;
 }
