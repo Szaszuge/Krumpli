@@ -16,11 +16,13 @@
 
 .gomb{
     color: rgb(130, 42, 165);
-    align-self: center;
+    width: 100%;
+    text-align: center;
 }
 
 body{
     background-color: slategray;
+    text-align: center;
 }
 
 footer{
